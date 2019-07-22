@@ -18,7 +18,7 @@ export class AddTodo extends Component {
         return (
             <form
                 onSubmit={this.onSubmit}
-                style={{ display: 'flex', paddingBottom: '2px', cursor: 'pointer' }}
+                style={{ display: 'flex', paddingBottom: '10px', cursor: 'pointer' }}
             >
                 <input
                     className="add-todo"

@@ -1,4 +1,4 @@
-## To Do List App 
+## React - To Do List
 ![todolist](todo-list.png)
 
 
